@@ -1,4 +1,3 @@
-# kedei_3.5inch_driver_v6_1_3
-alternative source to the driver for the kedei 3.5inch display for the raspberry pi. It took me 1 day to download from the official kedei website so here it is on github.
-
-no guaranties nor rights.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd471a22b1d6a0e806e16face9ef45269c0b24ba1a0f9ceb55251b7ecd7c524
+size 228
