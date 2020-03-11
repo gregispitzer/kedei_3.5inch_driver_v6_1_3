@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fdd471a22b1d6a0e806e16face9ef45269c0b24ba1a0f9ceb55251b7ecd7c524
-size 228
+# Alternative source to kedei_3.5inch_driver_v6_1_3
+
+Faster Source for the Kedei Raspberry Display Driver
+
+
+
+* origin: http://kedei.net/raspberry/raspberry.html
+* latest update of file: March 11th, 2020
+
+
+no guaranties nor rights
